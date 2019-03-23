@@ -1,0 +1,7 @@
+/code.js
+/index.html
+/LayaUISample.max.html
+/LayaUISample.max.js
+/res/atlas/comp.atlas
+/res/atlas/comp.png
+/version.json
